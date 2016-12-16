@@ -1,0 +1,62 @@
+body {
+	background-color: white;
+}
+h1 {
+	color: black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;  
+	font-size: 26px;
+	font-weight: normal;
+}
+h2 {
+	color: black;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;  
+	font-size: 11px;
+	font-weight: normal;
+}
+p {
+	color: black;
+	text-align: left;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;  
+	font-size: 9px;
+	font-weight: normal;
+	line-height: 12px;
+}
+.left {
+	float: left; 
+	width: 50%
+}
+.right {
+	float: left;
+	width: 50%;
+}
+.leftContent {
+	padding-right: 15px;
+}
+.rightContent {
+	padding-left: 15px;
+}
+h1, h2 {
+  line-height: 3px; 
+}
+a {
+	color: inherit;
+}
+a:hover {
+    color: #CCCCCC;
+}
+.name {
+	width: 328px;
+	text-align: center;
+	float: right;
+}
+.contact {
+	width: 128px;
+	text-align: center;
+	float: right;
+}
+.container {
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
