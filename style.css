@@ -44,6 +44,9 @@ a {
 a:hover {
     color: #CCCCCC;
 }
+a i:hover {
+    color: #CCCCCC;
+}
 .name {
 	width: 350px;
 	text-align: center;
@@ -59,4 +62,22 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items:center;
+}
+.icons {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	padding: 20px;
+}
+.fa-twitter {
+	color: #000000;
+	font-size: 25px !important;
+}
+.fa-linkedin {
+	color: #000000;
+	font-size: 25px !important;
+}
+.fa-envelope-o {
+	color: #000000;
+	font-size: 25px !important;
 }
