@@ -81,7 +81,3 @@ a i:hover {
 	color: #000000;
 	font-size: 25px !important;
 }
-.content {
-	display: flex;
-	align-items: center;
-}
